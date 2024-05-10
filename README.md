@@ -6,7 +6,7 @@ Given traffic sequences as input, forecast future traffic
 ```
 - 📦 ....
   |- 📄 README.md        #Guide file
-  |- 📄 Liscense.md      #Liscense file
+  |- 📄 License.md      #License file
   |- 📂 Data             #Here you can see dataset/link.
   |- 📂 Notebooks        #Here you can see jupyter files which should be run on Google Colab.
   |- 📂 Src              #Here you can see python files to run
