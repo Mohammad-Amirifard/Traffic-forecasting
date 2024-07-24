@@ -13,33 +13,17 @@ Given traffic sequences as input, forecast future traffic
   |- 📂 Report           #Here you can see a complete report of what we have done.
 ```
 
-# Attention1:
-Please try to make branches, if you want to updatae files. 
-
-# Attention2:
-Use the following format for commiting message:
-
-**Date_Time: Message.**
-
-eg1. 2024/05/10_5:20AM: I have created test file.
-
-eg2. 2024/05/10_5:30AM: Updated new mehtod
-
 # Project Detail
+**Type of Problem**:
+Time series Forcasting
 
-**Problem**: ... 
+**Goal**:
+Forecast number of 50 Mbit/s channels in the future
 
-**Goal**: ...
+# Dataset Detail:
+Dataset inlcudes several html files carring traffic for different paths.
 
-# Dataset Detail:...
-
-# Dataset Structure: ...
-
-
-# Data Download:
-...
-
-# Data Loading:... 
+ 
 
 
 
